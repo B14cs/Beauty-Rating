@@ -1,0 +1,10 @@
+os-sys
+datetime
+opencv-python
+numpy
+glob2
+Pillow
+keras-models
+tkfilebrowser
+cmake
+dlib
