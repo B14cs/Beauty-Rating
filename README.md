@@ -3,7 +3,7 @@
 ## Facial beauty prediction via deep learning methods based on the SCUT-FBP5500 dataset listed at the end.
 
 The SCUT- FBP5500 dataset has a total of 5500 frontal faces with diverse properties (male/female, Asian/Caucasian, ages) and various labels (face landmarks, beauty scores within [1, 5], beauty score distribution), which allows different computational models with different FBP paradigms.
-<img src="https://github.com/B14cs/Beauty-Rating/blob/fad782d2c71f4cfdf578b6ee7534503717d98b61/Read%20Me%20Images/dataset.png" align="center" style="width: 75%" />
+<img src="https://github.com/B14cs/Beauty-Rating/blob/fad782d2c71f4cfdf578b6ee7534503717d98b61/Read%20Me%20Images/dataset.png" align="left" style="width: 50%" />
 
 ## Requirements
 * Python 3.x installed
